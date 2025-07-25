@@ -1,0 +1,150 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.grecaptcha-badge {
+  visibility: hidden;
+}
+.bodycopy p {
+  @apply leading-relaxed my-2;
+}
+.bodycopy h2 {
+  @apply leading-relaxed mt-8 text-2xl;
+}
+.bodycopy h3 {
+  @apply leading-relaxed mt-6 text-xl;
+}
+
+/*COMPONENTS*/
+.subtitle {
+  @apply text-xs text-g500 py-4 mb-8 xl:text-center uppercase tracking-widest font-bold;
+}
+
+.button-primary {
+  @apply xl:flex bg-white text-black border-t xl:border-0 border-g1100 text-sm px-4 py-2 rounded-md;
+}
+.button-secondary {
+  @apply flex bg-g1200 text-white text-sm border border-g600 px-4 py-2 rounded-md;
+}
+.button-secondary-sm {
+  @apply bg-g1200 text-g600 text-xs border border-g600 px-4 py-2 rounded-full;
+}
+
+.container {
+  @apply p-6 max-w-screen-xl mx-auto;
+}
+.navbar-container {
+  @apply grid grid-cols-2 max-w-screen-2xl mx-auto xl:grid-cols-10;
+}
+
+.showDropdown {
+  display: grid !important;
+  z-index: 9999;
+}
+.showNavbar {
+  display: block !important;
+}
+
+@font-face {
+  font-family: "liber";
+  font-weight: 400;
+  src: url("../public/fonts/Liber-Regular.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: "liber";
+  font-weight: 700;
+  src: url("../public/fonts/Liber-Bold.ttf");
+  font-display: swap;
+}
+html {
+  @apply bg-black text-white leading-relaxed;
+  font-family: liber;
+}
+h1 {
+  @apply xl:text-6xl text-4xl font-bold pb-8 tracking-tight;
+}
+h2 {
+  @apply xl:text-4xl text-2xl font-bold tracking-tight;
+}
+h3 {
+  @apply xl:text-2xl text-xl font-bold tracking-tight;
+}
+h4 {
+  @apply xl:text-xl font-bold tracking-tight;
+}
+h5 {
+  @apply text-sm uppercase font-bold tracking-tight;
+}
+h6 {
+  @apply text-sm uppercase font-bold tracking-tight;
+}
+p {
+  @apply text-base;
+}
+ul {
+  @apply list-decimal list-inside leading-relaxed;
+}
+ol {
+  @apply list-disc list-inside leading-relaxed;
+}
+.button {
+  @apply font-bold block p-1 hover:bg-white hover:text-black transition-colors;
+}
+.bg-immGr {
+  @apply bg-gradient-to-tl from-imm100 to-imm200;
+}
+.bg-immGr-50 {
+  @apply bg-gradient-to-tl from-imm100/50 to-imm200/50;
+}
+.bg-comGr {
+  @apply bg-gradient-to-tl from-com100 to-com200;
+}
+.bg-comGr-50 {
+  @apply bg-gradient-to-tl from-com100/50 to-com200/50;
+}
+.bg-ambGr {
+  @apply bg-gradient-to-tl from-amb100 to-amb200;
+}
+.bg-ambGr-50 {
+  @apply bg-gradient-to-tl from-amb100/50 to-amb200/50;
+}
+.text-immGr {
+  @apply bg-immGr;
+  background-clip: text;
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+.text-comGr {
+  @apply bg-comGr;
+  background-clip: text;
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+.text-ambGr {
+  @apply bg-ambGr;
+  background-clip: text;
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+
+#Comunicazione {
+  @apply text-comGr;
+}
+
+#Immobiliare {
+  @apply text-immGr;
+}
+
+#Ambiente {
+  @apply text-ambGr;
+}

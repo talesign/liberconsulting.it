@@ -1,0 +1,855 @@
+export const privacy = `<h1 id="privacy-policy-di-laifinflorencecom">Privacy Policy di laifinflorence.com</h1>
+<p>Benvenuto nella privacy policy di laifinflorence.com. Questa policy ti aiuterà a comprendere quali dati raccogliamo, perché li raccogliamo e quali sono i tuoi diritti in merito.</p>
+<p>Ultima modifica: 27/05/2025</p>
+<h2 id="titolare-del-trattamento-dei-dati">Titolare del trattamento dei dati</h2>
+<p>LAIF S.A.S. DI LORENZO RICCHI
+Via Di Vingone, 3, 50018 Scandicci (FI)
+CF: 06608910482 P.IVA: 06608910482
+<a href="mailto:lorenzoricchi18@gmail.com">lorenzoricchi18@gmail.com</a></p>
+<h2 id="tipo-di-dati-che-raccogliamo">Tipo di dati che raccogliamo</h2>
+<p>Fra i Dati Personali raccolti da questo Sito Web, in modo autonomo o tramite terze parti, ci sono:</p>
+<ul>
+<li>nome</li>
+<li>cognome</li>
+<li>email</li>
+<li>identificativo univoco universare (UUID)</li>
+<li>informazioni sul dispositivo</li>
+<li>numero di telefono</li>
+<li>pageview</li>
+<li>log del dispositivo</li>
+<li>sistema operativo</li>
+<li>informazioni sul browser</li>
+<li>clic</li>
+<li>eventi di interazione</li>
+<li>interazioni allo scorrimento di pagina</li>
+<li>posizione relativa allo scorrimento</li>
+<li>dati sui crash</li>
+<li>numero di Utenti</li>
+<li>statistiche delle sessioni</li>
+<li>lingua</li>
+<li>pagina attuale</li>
+<li>latitudine (della città)</li>
+<li>longitudine (della città)</li>
+</ul>
+<p>Dettagli completi su ciascuna tipologia di Dati Personali raccolti sono forniti nelle sezioni dedicate di questa privacy policy o mediante specifici testi informativi visualizzati prima della raccolta dei Dati stessi.
+I Dati Personali possono essere liberamente forniti dall’Utente o, nel caso di Dati di Utilizzo, raccolti automaticamente durante l’uso di questo Sito Web.
+Se non diversamente specificato, tutti i Dati richiesti da questo Sito Web sono obbligatori. Se l’Utente rifiuta di comunicarli, potrebbe essere impossibile per questo Sito Web fornire il Servizio. Nei casi in cui questo Sito Web indichi alcuni Dati come facoltativi, gli Utenti sono liberi di astenersi dal comunicare tali Dati, senza che ciò abbia alcuna conseguenza sulla disponibilità del Servizio o sulla sua operatività.
+Gli Utenti che dovessero avere dubbi su quali Dati siano obbligatori sono incoraggiati a contattare il Titolare.
+L’eventuale utilizzo di Cookie - o di altri strumenti di tracciamento - da parte di questo Sito Web o dei titolari dei servizi terzi utilizzati da questo Sito Web ha la finalità di fornire il Servizio richiesto dall’Utente, oltre alle ulteriori finalità descritte nel presente documento e nella Cookie Policy.</p>
+<p>L’Utente si assume la responsabilità dei Dati Personali di terzi ottenuti, pubblicati o condivisi mediante questo Sito Web.</p>
+<h2 id="modalità-e-luogo-del-trattamento-dei-dati-raccolti">Modalità e luogo del trattamento dei Dati raccolti</h2>
+<h3 id="modalità-di-trattamento">Modalità di trattamento</h3>
+<p>Il Titolare adotta le opportune misure di sicurezza volte ad impedire l’accesso, la divulgazione, la modifica o la distruzione non autorizzate dei Dati Personali.
+Il trattamento viene effettuato mediante strumenti informatici e/o telematici, con modalità organizzative e con logiche strettamente correlate alle finalità indicate. Oltre al Titolare, in alcuni casi, potrebbero avere accesso ai Dati altri soggetti coinvolti nell’organizzazione di questo Sito Web (personale amministrativo, commerciale, marketing, legali, amministratori di sistema) ovvero soggetti esterni (come fornitori di servizi tecnici terzi, corrieri postali, hosting provider, società informatiche, agenzie di comunicazione) nominati anche, se necessario, Responsabili del Trattamento da parte del Titolare. L’elenco aggiornato dei Responsabili potrà sempre essere richiesto al Titolare del Trattamento.</p>
+<h3 id="luogo">Luogo</h3>
+<p>I Dati sono trattati presso le sedi operative del Titolare ed in ogni altro luogo in cui le parti coinvolte nel trattamento siano localizzate. Per ulteriori informazioni, contatta il Titolare.
+I Dati Personali dell’Utente potrebbero essere trasferiti in un paese diverso da quello in cui l’Utente si trova. Per ottenere ulteriori informazioni sul luogo del trattamento l’Utente può fare riferimento alla sezione relativa ai dettagli sul trattamento dei Dati Personali.</p>
+<h3 id="periodo-di-conservazione">Periodo di conservazione</h3>
+<p>Se non diversamente indicato in questo documento, i Dati Personali sono trattati e conservati per il tempo richiesto dalla finalità per la quale sono stati raccolti e potrebbero essere conservati per un periodo più lungo a causa di eventuali obbligazioni legali o sulla base del consenso degli Utenti.</p>
+<h2 id="finalità-del-trattamento-dei-dati-raccolti">Finalità del Trattamento dei Dati raccolti</h2>
+<p>I Dati dell’Utente sono raccolti per consentire al Titolare di fornire il Servizio, adempiere agli obblighi di legge, rispondere a richieste o azioni esecutive, tutelare i propri diritti ed interessi (o quelli di Utenti o di terze parti), individuare eventuali attività dolose o fraudolente, nonché per alcune le seguenti finalità:</p>
+<ul>
+<li>Contattare l’Utente</li>
+<li>Gestione delle richieste di supporto e contatto</li>
+<li>Hosting ed infrastruttura backend</li>
+<li>Pubblicità</li>
+<li>Statistica</li>
+<li>Monitoraggio dell’infrastruttura</li>
+<li>Affiliazione commerciale</li>
+<li>Trasferimento di Dati al di fuori della UE</li>
+<li>Raccolta delle preferenze relative alla privacy</li>
+<li>Gestione dei database di Utenti</li>
+<li>Interazione con piattaforme di raccolta dati e altre terze parti</li>
+<li>Gestione dei tag</li>
+<li>Visualizzazione di contenuti da piattaforme esterne</li>
+<li>Gestione contatti e invio di messaggi</li>
+<li>Collegamento Dati</li>
+<li>Ottimizzazione e distribuzione del traffico</li>
+<li>Strumenti di trattamento interno</li>
+<li>Test di performance di contenuti e funzionalità (A/B testing)</li>
+<li>Creazione e gestione di questo Sito Web</li>
+<li>Gestione delle attività relative alla conformità</li>
+</ul>
+<h2 id="dettagli-sul-trattamento-dei-dati-personali">Dettagli sul trattamento dei Dati Personali</h2>
+<h3 id="contattare-lutente">Contattare l’Utente</h3>
+<h4 id="mailing-list-o-newsletter">Mailing list o newsletter</h4>
+<p>Con la registrazione alla mailing list o alla newsletter, l’indirizzo email dell’Utente viene automaticamente inserito in una lista di contatti a cui potranno essere trasmessi messaggi email contenenti informazioni, anche di natura commerciale e promozionale, relative a questo Sito Web. L’indirizzo email dell’Utente potrebbe anche essere aggiunto a questa lista come risultato della registrazione a questo Sito Web o dopo aver effettuato un acquisto.</p>
+<p>Dati Personali trattati: email
+Base giuridica per il trattamento: Consenso.
+Servizio fornito da: Questo Sito Web
+Categoria di informazioni personali raccolte in base alla CCPA: identificatori
+Questo tipo di trattamento costituisce: una Vendita in Virginia, Colorado, Connecticut, Utah, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska, Tennessee, Minnesota e Montana</p>
+<h4 id="form-di-contatto">Form di contatto</h4>
+<p>Con l’invio di un form di contatto, l’indirizzo email, nome, cognome e numero di telefono dell’Utente vengono automaticamente inseriti in una lista di contatti che verranno successavamente contattati per informazioni relative ai servizi offerti come mostrato in questo Sito Web.</p>
+<p>Dati Personali trattati: email, nome, cognome, numero di telefono
+Base giuridica per il trattamento: Consenso.
+Servizio fornito da: Questo Sito Web
+Categoria di informazioni personali raccolte in base alla CCPA: identificatori
+Questo tipo di trattamento costituisce: una Vendita in Virginia, Colorado, Connecticut, Utah, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska, Tennessee, Minnesota e Montana</p>
+<h4 id="campo-per-il-numero-di-telefono">Campo per il numero di telefono</h4>
+<p>Aggiungendo il proprio numero di telefono nel campo disponibile nella pagina della fattura, l’Utente sarà contattato in caso di problemi di fatturazione legati all’acquisto delle soluzioni offerte da iubenda. Il numero di telefono potrà essere utilizzato anche per fornire supporto nella configurazione della soluzione acquistata.</p>
+<p>Dati Personali trattati: numero di telefono.</p>
+<h3 id="hosting-ed-infrastruttura-backend">Hosting ed infrastruttura backend</h3>
+<p>Questo tipo di servizi ha la funzione di ospitare Dati e file che permettono a questo Sito Web di funzionare, ne consentono la distribuzione e mettono a disposizione un’infrastruttura pronta all’uso per erogare specifiche funzionalità di questo Sito Web.</p>
+<p>Alcuni servizi tra quelli elencati di seguito, se presenti, possono funzionare su server geograficamente distribuiti, rendendo difficile determinare l’effettiva ubicazione in cui sono conservati i Dati Personali.</p>
+<h4 id="railway">Railway</h4>
+<p>Railway è un servizio di hosting e backend fornito da Railway Corp.</p>
+<p>Dati Personali trattati: varie tipologie di Dati secondo quanto specificato dalla privacy policy del servizio
+Base giuridica per il trattamento: Contratto.
+Servizio fornito da: Railway Corp (Paesi Bassi) – <a href="https://railway.com/legal/privacy">Privacy Policy</a>
+Condizioni per il trasferimento dei Dati: Nessun trasferimento di dati.
+Periodo di conservazione dei Dati: Conservazione dei Dati per il tempo necessario al raggiungimento dello scopo.
+Categoria di informazioni personali raccolte in base alla CCPA: identificatori</p>
+<h3 id="ottimizzazione-e-distribuzione-del-traffico">Ottimizzazione e distribuzione del traffico</h3>
+<p>Questo tipo di servizi permette a questo Sito Web di distribuire i propri contenuti tramite dei server dislocati sul territorio e di ottimizzare le prestazioni della stessa.
+I Dati Personali trattati dipendono dalle caratteristiche e della modalità d’implementazione di questi servizi, che per loro natura filtrano le comunicazioni fra questo Sito Web ed il browser dell’Utente.
+Vista la natura distribuita di questo sistema, è difficile determinare i luoghi in cui vengono trasferiti i contenuti, che potrebbero contenere Dati Personali dell’Utente.</p>
+<h4 id="cloudflare">Cloudflare</h4>
+<p>Cloudflare è un servizio di ottimizzazione e distribuzione del traffico fornito da Cloudflare, Inc.</p>
+<p>Dati Personali trattati: Dati di utilizzo
+Base giuridica per il trattamento: Contratto.
+Servizio fornito da: Cloudflare, Inc. – <a href="https://www.cloudflare.com/it-it/privacypolicy/">Privacy Policy</a>
+Categoria di informazioni personali raccolte in base alla CCPA: informazioni su relative alle attività su internet o altri network</p>
+<h3 id="statistica">Statistica</h3>
+<p>I servizi contenuti nella presente sezione permettono al Titolare del Trattamento di monitorare e analizzare i dati di traffico e servono a tener traccia del comportamento dell’Utente.</p>
+<h4 id="google-analytics-4">Google Analytics 4</h4>
+<p>Google Analytics è un servizio di statistica fornito da Google Ireland Limited (“Google”). Google utilizza i Dati Personali raccolti allo scopo di tracciare ed esaminare l’utilizzo di questo Sito Web, compilare report e condividerli con gli altri servizi sviluppati da Google. Google potrebbe utilizzare i Dati Personali per contestualizzare e personalizzare gli annunci del proprio network pubblicitario. In Google Analytics 4, gli indirizzi IP vengono utilizzati al momento della raccolta e poi eliminati prima che i dati vengano registrati in qualsiasi data center o server. Per saperne di più, è possibile consultare la documentazione ufficiale di Google.</p>
+<p>Per conoscere l’utilizzo dei Dati da parte di Google, consulta la loro <a href="https://policies.google.com/technologies/partner-sites">partner policy</a> e la loro pagina dei <a href="https://business.safety.google/privacy/">Dati Commerciali</a>.</p>
+<p>Dati Personali trattati: Dati di utilizzo, numero di Utenti, statistiche delle sessioni, Strumenti di Tracciamento
+Base giuridica per il trattamento: Consenso.
+Servizio fornito da: Google Ireland Limited (Irlanda) – <a href="https://business.safety.google/privacy/">Privacy Policy</a> – <a href="https://tools.google.com/dlpage/gaoptout?hl=it">Opt Out</a>
+Categoria di informazioni personali raccolte in base alla CCPA: informazioni su relative alle attività su internet o altri network</p>
+<h2 id="informazioni-su-come-disattivare-gli-annunci-pubblicitari-basati-sugli-interessi">Informazioni su come disattivare gli annunci pubblicitari basati sugli interessi</h2>
+<p>Oltre a qualsiasi funzione di opt-out fornita da uno qualsiasi dei servizi elencati in questo documento, gli Utenti possono leggere di più su come disattivare gli annunci pubblicitari basati sugli interessi nell’apposita sezione della Cookie Policy.</p>
+<h2 id="cookie-policy">Cookie Policy</h2>
+<p>Questo Sito Web fa utilizzo di Strumenti di Tracciamento. Per saperne di più, gli Utenti possono consultare la Cookie Policy.</p>
+<h2 id="ulteriori-informazioni-per-gli-utenti-nellunione-europea">Ulteriori informazioni per gli utenti nell’Unione Europea</h2>
+<h3 id="base-giuridica-del-trattamento">Base giuridica del trattamento</h3>
+<p>Il Titolare tratta Dati Personali relativi all’Utente in caso sussista una delle seguenti condizioni:</p>
+<ul>
+<li>l’Utente ha prestato il consenso per una o più finalità specifiche.</li>
+<li>il trattamento è necessario all’esecuzione di un contratto con l’Utente e/o all’esecuzione di misure precontrattuali;</li>
+<li>il trattamento è necessario per adempiere un obbligo legale al quale è soggetto il Titolare;
+-il trattamento è necessario per l’esecuzione di un compito di interesse pubblico o per l’esercizio di pubblici poteri di cui è investito il Titolare;</li>
+<li>il trattamento è necessario per il perseguimento del legittimo interesse del Titolare o di terzi.</li>
+</ul>
+<p>È comunque sempre possibile richiedere al Titolare di chiarire la concreta base giuridica di ciascun trattamento ed in particolare di specificare se il trattamento sia basato sulla legge, previsto da un contratto o necessario per concludere un contratto.</p>
+<h3 id="ulteriori-informazioni-sul-tempo-di-conservazione">Ulteriori informazioni sul tempo di conservazione</h3>
+<p>Se non diversamente indicato in questo documento, i Dati Personali sono trattati e conservati per il tempo richiesto dalla finalità per la quale sono stati raccolti e potrebbero essere conservati per un periodo più lungo a causa di eventuali obbligazioni legali o sulla base del consenso degli Utenti.</p>
+<p>Pertanto:</p>
+<ul>
+<li>I Dati Personali raccolti per scopi collegati all’esecuzione di un contratto tra il Titolare e l’Utente saranno trattenuti sino a quando sia completata l’esecuzione di tale contratto.</li>
+<li>I Dati Personali raccolti per finalità riconducibili all’interesse legittimo del Titolare saranno trattenuti sino al soddisfacimento di tale interesse. L’Utente può ottenere ulteriori informazioni in merito all’interesse legittimo perseguito dal Titolare nelle relative sezioni di questo documento o contattando il Titolare.</li>
+</ul>
+<p>Quando il trattamento è basato sul consenso dell’Utente, il Titolare può conservare i Dati Personali più a lungo sino a quando detto consenso non venga revocato. Inoltre, il Titolare potrebbe essere obbligato a conservare i Dati Personali per un periodo più lungo per adempiere ad un obbligo di legge o per ordine di un’autorità.</p>
+<p>Al termine del periodo di conservazione i Dati Personali saranno cancellati. Pertanto, allo spirare di tale termine il diritto di accesso, cancellazione, rettificazione ed il diritto alla portabilità dei Dati non potranno più essere esercitati.</p>
+<h3 id="diritti-dellutente-sulla-base-del-regolamento-generale-sulla-protezione-dei-dati-gdpr">Diritti dell’Utente sulla base del Regolamento Generale sulla Protezione dei Dati (GDPR)</h3>
+<p>Gli Utenti possono esercitare determinati diritti con riferimento ai Dati trattati dal Titolare.</p>
+<p>In particolare, nei limiti previsti dalla legge, l’Utente ha il diritto di:</p>
+<ul>
+<li>revocare il consenso in ogni momento. L’Utente può revocare il consenso al trattamento dei propri Dati Personali precedentemente espresso.</li>
+<li>opporsi al trattamento dei propri Dati. L’Utente può opporsi al trattamento dei propri Dati quando esso avviene in virtù di una base giuridica diversa dal consenso.</li>
+<li>accedere ai propri Dati. L’Utente ha diritto ad ottenere informazioni sui Dati trattati dal Titolare, su determinati aspetti del trattamento ed a ricevere una copia dei Dati trattati.</li>
+<li>verificare e chiedere la rettificazione. L’Utente può verificare la correttezza dei propri Dati e richiederne l’aggiornamento o la correzione.</li>
+<li>ottenere la limitazione del trattamento. L’Utente può richiedere la limitazione del trattamento dei propri Dati. In tal caso il Titolare non tratterà i Dati per alcun altro scopo se non la loro conservazione.</li>
+<li>ottenere la cancellazione o rimozione dei propri Dati Personali. L’Utente può richiedere la cancellazione dei propri Dati da parte del Titolare.</li>
+<li>ricevere i propri Dati o farli trasferire ad altro titolare. L’Utente ha diritto di ricevere i propri Dati in formato strutturato, di uso comune e leggibile da dispositivo automatico e, ove tecnicamente fattibile, di ottenerne il trasferimento senza ostacoli ad un altro titolare.</li>
+<li>proporre reclamo. L’Utente può proporre un reclamo all’autorità di controllo della protezione dei dati personali competente o agire in sede giudiziale.</li>
+</ul>
+<p>Gli Utenti hanno diritto di ottenere informazioni in merito alla base giuridica per il trasferimento di Dati all’estero incluso verso qualsiasi organizzazione internazionale regolata dal diritto internazionale o costituita da due o più paesi, come ad esempio l’ONU, nonché in merito alle misure di sicurezza adottate dal Titolare per proteggere i loro Dati.</p>
+<h3 id="dettagli-sul-diritto-di-opposizione">Dettagli sul diritto di opposizione</h3>
+<p>Quando i Dati Personali sono trattati nell’interesse pubblico, nell’esercizio di pubblici poteri di cui è investito il Titolare oppure per perseguire un interesse legittimo del Titolare, gli Utenti hanno diritto ad opporsi al trattamento per motivi connessi alla loro situazione particolare.</p>
+<p>Si fa presente agli Utenti che, ove i loro Dati fossero trattati con finalità di marketing diretto, possono opporsi al trattamento in qualsiasi momento, gratuitamente e senza fornire alcuna motivazione. Qualora gli Utenti si oppongano al trattamento per finalità di marketing diretto, i Dati Personali non sono più oggetto di trattamento per tali finalità. Per scoprire se il Titolare tratti Dati con finalità di marketing diretto gli Utenti possono fare riferimento alle rispettive sezioni di questo documento.</p>
+<h3 id="come-esercitare-i-diritti">Come esercitare i diritti</h3>
+<p>Eventuali richieste di esercizio dei diritti dell’Utente possono essere indirizzate al Titolare attraverso i recapiti forniti in questo documento. La richiesta è gratuita e il Titolare risponderà nel più breve tempo possibile, in ogni caso entro un mese, fornendo all’Utente tutte le informazioni previste dalla legge. Eventuali rettifiche, cancellazioni o limitazioni del trattamento saranno comunicate dal Titolare a ciascuno dei destinatari, se esistenti, a cui sono stati trasmessi i Dati Personali, salvo che ciò si riveli impossibile o implichi uno sforzo sproporzionato. Il Titolare comunica all’Utente tali destinatari qualora egli lo richieda.</p>
+<h3 id="trasferimento-di-dati-personali-al-di-fuori-dellunione-europea">Trasferimento di dati personali al di fuori dell’Unione Europea</h3>
+<h4 id="trasferimento-di-dati-verso-paesi-che-garantiscono-standard-europei">Trasferimento di Dati verso paesi che garantiscono standard europei</h4>
+<p>Se questa rappresenta la condizione per il trasferimento dei Dati, il trasferimento di Dati Personali dalla UE in paesi terzi avviene in base ad una decisione d’adeguatezza adottata dalla Commissione Europea.    La Commissione Europea adotta decisioni di adeguatezza con riferimento a singoli paesi terzi che ritiene garantire un livello di protezione dei Dati Personali paragonabile a quello previsto dalla legislazione Europea in materia di protezione di Dati Personali. L’Utente può visionare la lista aggiornata delle decisioni di adeguatezza sul sito internet della Commissione Europea.</p>
+<h4 id="trasferimento-verso-paesi-terzi-sulla-base-di-clausole-contrattuali-tipo">Trasferimento verso paesi terzi sulla base di clausole contrattuali tipo</h4>
+<p>Se questa rappresenta la condizione per il trasferimento dei Dati, il trasferimento di Dati Personali dalla UE verso paesi terzi avviene sulla base di clausole tipo di protezione dei Dati Personali adottate dalla Commissione Europea. In tali casi i destinatari dei Dati hanno accettato di trattare i Dati Personali in conformità con i livelli di protezione previsti dalla normativa UE. Gli Utenti possono richiedere ulteriori informazioni contattando il Titolare agli estremi indicati nel presente documento.</p>
+<h2 id="ulteriori-informazioni-per-gli-utenti-in-svizzera">Ulteriori informazioni per gli utenti in Svizzera</h2>
+<p>Questa sezione si applica agli Utenti in Svizzera e, per tali Utenti, sostituisce qualsiasi altra informazione eventualmente divergente o in conflitto contenuta nell’informativa sulla privacy.</p>
+<p>Ulteriori dettagli relativi alle categorie di Dati trattati, alle finalità del trattamento, alle categorie di destinatari dei dati personali, se presenti, al periodo di conservazione e ad altre informazioni sui Dati personali sono reperibili nella sezione intitolata “Informazioni dettagliate sul trattamento dei Dati personali” all’interno del presente documento.</p>
+<h3 id="i-diritti-degli-utenti-ai-sensi-della-legge-federale-sulla-protezione-dei-dati-personali">I diritti degli utenti ai sensi della Legge federale sulla protezione dei dati personali</h3>
+<p>Gli Utenti possono esercitare alcuni diritti relativi ai loro dati nei limiti della legge, tra cui i seguenti:</p>
+<ul>
+<li>diritto di accesso ai Dati personali;</li>
+<li>il diritto di opporsi al trattamento dei propri Dati Personali (che consente anche agli Utenti di richiedere la limitazione del trattamento dei Dati personali, la cancellazione o la distruzione dei Dati personali, il divieto di divulgazione di Dati personali a terzi);</li>
+<li>diritto di ricevere i propri Dati Personali e di trasferirli a un altro titolare del trattamento (portabilità dei dati);</li>
+<li>diritto di chiedere la rettifica di Dati Personali errati.</li>
+</ul>
+<h3 id="come-esercitare-questi-diritti">Come esercitare questi diritti</h3>
+<p>Eventuali richieste di esercizio dei diritti dell’Utente possono essere indirizzate al Titolare attraverso i recapiti forniti in questo documento. Tali richieste sono gratuite e il Titolare risponderà nel più breve tempo possibile, fornendo agli Utenti le informazioni richieste dalla legge.</p>
+<h2 id="ulteriori-informazioni-per-gli-utenti-in-brasile">Ulteriori informazioni per gli Utenti in Brasile</h2>
+<p>Questa sezione del documento integra e completa le informazioni contenute nel resto della privacy policy ed è fornita dall’entità che gestisce questo Sito Web e, se del caso, dalla sua capogruppo e dalle sue controllate e affiliate (ai fini di questa sezione denominate collettivamente “noi”, “nostro” o “nostra”).
+Questa sezione si applica a tutti gli Utenti in Brasile (tali Utenti sono indicati di seguito semplicemente come “tu”, “tuo”, “voi” o “vostro”), ai sensi della “Lei Geral de Proteção de Dados e, per tali Utenti, prevale su qualsiasi altra informazione eventualmente divergente o in contrasto contenuta nella presente privacy policy.
+In questa parte del documento viene utilizzato il termine “informazioni personali” così come definito dalla LGPD.</p>
+<h3 id="basi-giuridiche-in-virtù-delle-quali-trattiamo-le-tue-informazioni-personali">Basi giuridiche in virtù delle quali trattiamo le tue informazioni personali</h3>
+<p>Trattiamo le tue informazioni personali esclusivamente nel caso in cui sussita una delle basi giuridiche per tale trattamento. Le basi giuridiche sono le seguenti:</p>
+<ul>
+<li>
+<p>il tuo consenso alle attività di trattamento in questione;</p>
+</li>
+<li>
+<p>l’adempimento ad obblighi di legge che siamo tenuti a soddisfare;</p>
+</li>
+<li>
+<p>l’esecuzione di norme dettate da leggi o regolamenti o da contratti, accordi o altri simili strumenti giuridici; gli studi condotti da enti di ricerca, preferibilmente effettuati su informazioni personali anonimizzate;</p>
+</li>
+<li>
+<p>l’esecuzione di un contratto e dei relativi adempimenti precontrattuali, qualora tu sia parte di tale contratto;</p>
+</li>
+<li>
+<p>l’esercizio dei nostri diritti in giudizio, in procedure amministrative o in arbitrati;</p>
+</li>
+<li>
+<p>la difesa o l’incolumità fisica tua o di un terzo;</p>
+</li>
+<li>
+<p>la tutela della salute - nel contesto di procedure messe in atto da entità o professionisti del settore sanitario;</p>
+</li>
+<li>
+<p>il nostro legittimo interesse, a condizione che i tuoi diritti e libertà fondamentali non prevalgano su tali interessi; e</p>
+</li>
+<li>
+<p>la tutela del credito.</p>
+<p>Per sapere di più riguardo alle basi giuridiche, puoi contattarci in qualsiasi momento utilizzando i recapiti forniti in questo documento.</p>
+</li>
+</ul>
+<h3 id="categorie-di-informazioni-personali-trattate">Categorie di informazioni personali trattate</h3>
+<p>Per sapere quali sono categorie di informazioni personali trattate, puoi fare riferimento alla sezione “Dettagli sul trattamento dei Dati Personali” presente in questo documento.</p>
+<h3 id="perchè-trattiamo-le-tue-informazioni-personali">Perchè trattiamo le tue informazioni personali</h3>
+<p>Per sapere perchè trattiamo le tue informazioni personali, fai riferimento alle sezioni “Dettagli sul trattamento dei Dati Personali” e “Finalità del Trattamento dei Dati raccolti” presente in questo documento.</p>
+<h2 id="i-tuoi-diritti-relativi-alla-privacy-in-brasile-come-inoltrare-una-richiesta-e-come-verrà-gestita-da-noi">I tuoi diritti relativi alla privacy in Brasile, come inoltrare una richiesta e come verrà gestita da noi</h2>
+<h3 id="i-tuoi-diritti-relativi-alla-privacy-in-brasile">I tuoi diritti relativi alla privacy in Brasile</h3>
+<p>Hai il diritto di:</p>
+<ul>
+<li>ottenere conferma della esistenza di attività di trattamento riguardanti le tue informazioni personali;</li>
+<li>accedere alle tue informazioni personali;</li>
+<li>ottenere la rettifica delle tue informazioni personali incomplete, inaccurate o non aggiornate;</li>
+<li>ottenere l’anonimizzazione, il blocco o la cancellazione delle informazioni personali non necessarie o eccessive, o di quelle informazioni che sono trattate in contrasto alle disposizioni della LGPD;</li>
+<li>ottenere informazioni riguardo la possibilità di prestare o rifiutare il tuo consenso e le relative conseguenze;</li>
+<li>ottenere informazioni riguardo le terze parti con le quali condividiamo le tue informazioni personali;</li>
+<li>ottenere, a fronte di una tua richiesta esplicita, la portabilità delle tue informazioni personali (ad eccezione delle informazioni anonimizzate) verso altri fornitori di prodotti o servizi, a condizione che i nostri segreti commerciali e industriali siano salvaguardati;</li>
+<li>ottenere la cancellazione delle informazioni personali trattate qualora il trattamento sia stato effettuato sulla base del tuo consenso, a meno che sia applicabile una o più delle eccezioni previste dell’articolo 16 LGPD;</li>
+<li>revocare il tuo consenso in qualsiasi momento;</li>
+<li>presentare un reclamo riguardante le tue informazioni personali all’ANPD (Autorità Nazionale di Protezione dei Dati) o ad un organismo di tutela dei consumatori;</li>
+<li>opporsi ad attività di trattamento nei casi in cui tale trattamento non sia effettuato in conformità alle disposizioni di legge;</li>
+<li>richiedere informazioni chiare ed adeguate riguardo ai criteti e alle procedure utilizzate nell’ambito dei processi decisionali automatizzati; e</li>
+<li>richiedere la revisione delle decisioni che ledono i tuoi interessi, effettuate esclusivamente sulla base di processi decisionali automatizzati delle tue informazioni personali. Queste includono le decisioni per delineare il tuo profilo personale, professionale, di consumatore o creditore, o altri spetti della tua personalità.</li>
+</ul>
+<h3 id="come-inoltrare-una-richiesta">Come inoltrare una richiesta</h3>
+<p>Puoi inoltrare una richiesta esplicita per esercitare i tuoi diritti a titolo gratuito, in qualsiasi momento, utilizzando i recapiti presenti in questo documento o tramite il tuo legale rappresentante.</p>
+<h3 id="come-e-in-quanto-tempo-gestiremo-la-tua-richiesta">Come e in quanto tempo gestiremo la tua richiesta</h3>
+<p>Faremo il possibile per rispondere alla tua richiesta nel più breve tempo possibile.
+In ogni caso, se per noi fosse impossibile farlo, ci assicureremo di comunicarti le ragioni fattuali o legali che ci impediscono di soddisfare immediatamente o di dar seguito alla tua richiesta. Qualora le tue informazioni personali non siano processate da noi, se saremo in grado di farlo, ti indicheremo la persona fisica o giuridica alla quale rivolgere le tue richieste.</p>
+<p>Nel caso in cui tu decida di inoltrare una richiesta di accesso o una richiesta di conferma dell’esistenza del trattamento di informazioni personali, ti preghiamo di assicurarti di specificare se preferisci ricevere le tue informazioni personali in formato elettronico o cartaceo.
+Dovrai inoltre farci sapere se desideri una risposta immediata, nel qual caso riceverai una risposta semplificata, o se invece necessiti di una informativa completa.
+In quest’ultimo caso, risponderemo entro 15 giorni dal momento della tua richiesta, fornendoti tutte le informazioni riguardanti l’origine delle tue informazioni personali, la conferma o meno dell’esistenza di informazioni personali che ti riguardano, tutti i criteri utilizzati per il trattamento e le finalità di tale trattamento, salvaguardando al contempo i nostri segreti commerciali e industriali.</p>
+<p>Nel caso in cui tu decida di inoltrare una richiesta di rettifica, cancellazione, anonimizzazione o blocco delle informazioni personali, ci assicureremo di informare immediatamente della tua richiesta le altre parti con le quali abbiamo condiviso le tue informazioni personali in modo che esse possano a loro volta soddisfare la tua richiesta - ad esclusione dei casi in cui una tale comunicazione risulti per noi impossibile o eccessivamente onerosa.</p>
+<h3 id="trasferimento-delle-informazioni-personali-al-di-fuori-del-brasile-nei-casi-consentiti-dalla-legge">Trasferimento delle informazioni personali al di fuori del Brasile nei casi consentiti dalla legge</h3>
+<p>Possiamo trasferire le tue informazioni personali al di fuori del territorio brasiliano nel seguenti casi:</p>
+<ul>
+<li>quando il trasferimento è necessario per la cooperazione giuridica internazionale tra i servizi di intelligence, gli organi investigativi e di procedura penale, così come previsto dagli stumenti messi a disposizione dal diritto internazionale;</li>
+<li>quando il trasferimento è necessario per difendere la vita o l’incolumità fisica tua o di terze parti;</li>
+<li>quando il trasferimento è autorizzato dall’ANPD;</li>
+<li>quando il trasferimento deriva da un’obbligazione assunta nel contesto di un accordo di cooperazione internazionale;</li>
+<li>quando il trasferimento è necessario all’esercizio di un ordine pubblico o per l’espletamento di un pubblico servizio;</li>
+<li>quando il trasferimento è necessario per l’adempimento di un obbligo di legge, l’esecuzione di un contratto e dei relativi adempimenti precontrattuali, o il normale esercizio di diritti in sede guidiziaria, amministrativa o in sede arbitrale.</li>
+</ul>
+<h2 id="further-information-for-users-in-the-united-states">Further information for Users in the United States</h2>
+<p>This part of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the business running this Website and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
+The information contained in this section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are residents in the following states: California, Virginia, Colorado, Connecticut, Utah, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska, Tennessee, Minnesota and Montana.
+For such Users, this information supersedes any other possibly divergent or conflicting provisions contained in the privacy policy.
+This part of the document uses the term Personal Information (and Sensitive Personal Information).</p>
+<h3 id="notice-at-collection">Notice at collection</h3>
+<p>The following Notice at collection provides you with timely notice about the categories of Personal Information collected or disclosed in the past 12 months so that you can exercise meaningful control over our use of that Information.
+While such categorization of Personal Information is mainly based on California privacy laws, it can also be helpful for anyone who is not a California resident to get a general idea of what types of Personal Information are collected.</p>
+<h4 id="identifiers">Identifiers</h4>
+<p>Personal Information collected or disclosed:</p>
+<ul>
+<li>nome</li>
+<li>cognome</li>
+<li>email</li>
+<li>identificativo univoco universare (UUID)</li>
+<li>informazioni sul dispositivo</li>
+<li>numero di telefono</li>
+<li>pageview</li>
+<li>log del dispositivo</li>
+<li>sistema operativo</li>
+<li>informazioni sul browser</li>
+<li>clic</li>
+<li>eventi di interazione</li>
+<li>interazioni allo scorrimento di pagina</li>
+<li>posizione relativa allo scorrimento</li>
+<li>dati sui crash</li>
+<li>numero di Utenti</li>
+<li>statistiche delle sessioni</li>
+<li>lingua</li>
+<li>pagina attuale</li>
+<li>latitudine (della città)</li>
+<li>longitudine (della città)</li>
+</ul>
+<p>Purposes:</p>
+<ul>
+<li>Contattare l’Utente</li>
+<li>Gestione delle richieste di supporto e contatto</li>
+<li>Hosting ed infrastruttura backend</li>
+<li>Pubblicità</li>
+<li>Statistica</li>
+<li>Monitoraggio dell’infrastruttura</li>
+<li>Affiliazione commerciale</li>
+<li>Trasferimento di Dati al di fuori della UE</li>
+<li>Raccolta delle preferenze relative alla privacy</li>
+<li>Gestione dei database di Utenti</li>
+<li>Interazione con piattaforme di raccolta dati e altre terze parti</li>
+<li>Gestione dei tag</li>
+<li>Visualizzazione di contenuti da piattaforme esterne</li>
+<li>Gestione contatti e invio di messaggi</li>
+<li>Collegamento Dati</li>
+<li>Ottimizzazione e distribuzione del traffico</li>
+<li>Strumenti di trattamento interno</li>
+<li>Test di performance di contenuti e funzionalità (A/B testing)</li>
+<li>Creazione e gestione di questo Sito Web</li>
+<li>Gestione delle attività relative alla conformità</li>
+</ul>
+<p>Retention period: keeping the Data as long as necessary for the establishment, exercise or defense of legal claims, keeping the Data for the time necessary to fulfill the purpose, keeping the Data as long as required by relevant national law, 3 years</p>
+<p>Sold or Shared: Yes</p>
+<p>Targeted Advertising: Yes</p>
+<p>Third-parties: This Website</p>
+<p>Service providers or contractors:
+This Website, Cloudflare Inc., Railway Corp., Google Ireland Limited</p>
+<h4 id="geolocation-data">Geolocation data</h4>
+<p>Personal Information collected or disclosed:</p>
+<ul>
+<li>Strumenti di Tracciamento</li>
+<li>Dati di utilizzo</li>
+<li>latitudine (della città)</li>
+<li>longitudine (della città)</li>
+<li>search terms</li>
+</ul>
+<p>Purposes:</p>
+<ul>
+<li>Visualizzazione di contenuti da piattaforme esterne</li>
+<li>Retention period:</li>
+<li>for the time necessary to fulfill the purpose</li>
+</ul>
+<p>Sold or Shared: Yes</p>
+<p>Targeted Advertising: Yes</p>
+<p>Service providers or contractors: Google Ireland Limited</p>
+<h3 id="what-are-the-sources-of-the-personal-information-we-collect">What are the sources of the Personal Information we collect?</h3>
+<p>We collect the above-mentioned categories of Personal Information, either directly or indirectly, from you when you use this Website.</p>
+<p>For example, you directly provide your Personal Information when you submit requests via any forms on this Website. You also provide Personal Information indirectly when you navigate this Website, as Personal Information about you is automatically observed and collected.</p>
+<p>Finally, we may collect your Personal Information from third parties that work with us in connection with the Service or with the functioning of this Website and features thereof.</p>
+<p>Your privacy rights under US state laws
+You may exercise certain rights regarding your Personal Information. In particular, to the extent permitted by applicable law, you have:</p>
+<ul>
+<li>the right to access Personal Information: the right to know. You have the right to request that we confirm whether or not we are processing your Personal Information. You also have the right to access such Personal Information;</li>
+<li>the right to correct inaccurate Personal Information. You have the right to request that we correct any inaccurate Personal Information we maintain about you;</li>
+<li>the right to request the deletion of your Personal Information. You have the right to request that we delete any of your Personal Information;</li>
+<li>the right to obtain a copy of your Personal Information. We will provide your Personal Information in a portable and usable format that allows you to transfer data easily to another entity – provided that this is technically feasible;</li>
+<li>the right to opt out from the Sale of your Personal Information; We will not discriminate against you for exercising your privacy rights.</li>
+<li>the right to non-discrimination.</li>
+</ul>
+<h4 id="additional-rights-for-users-residing-in-california">Additional rights for Users residing in California</h4>
+<p>In addition to the rights listed above common to all Users in the United States, as a User residing in California, you have</p>
+<ul>
+<li>The right to opt out of the Sharing of your Personal Information for cross-context behavioral advertising;</li>
+<li>The right to request to limit our use or disclosure of your Sensitive Personal Information to only that which is necessary to perform the services or provide the goods, as is reasonably expected by an average consumer. Please note that certain exceptions outlined in the law may apply, such as, when the collection and processing of Sensitive Personal Information is necessary to verify or maintain the quality or safety of our service.</li>
+</ul>
+<h4 id="additional-rights-for-users-residing-in-virginia-colorado-connecticut-texas-oregon-nevada-delaware-iowa-new-hampshire-new-jersey-nebraska-tennessee-minnesota-and-montana">Additional rights for Users residing in Virginia, Colorado, Connecticut, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska, Tennessee, Minnesota and Montana</h4>
+<p>In addition to the rights listed above common to all Users in the United States, as a User residing in Virginia, Colorado, Connecticut, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska, Tennessee, Minnesota and Montana you have</p>
+<ul>
+<li>The right to opt out of the processing of your personal information for Targeted Advertising or profiling in furtherance of decisions that produce legal or similarly significant effects concerning you;</li>
+<li>The right to freely give, deny or withdraw your consent for the processing of your Sensitive Personal Information. Please note that certain exceptions outlined in the law may apply, such as, but not limited to, when the collection and processing of Sensitive Personal Information is necessary for the provision of a product or service specifically requested by the consumer.</li>
+</ul>
+<p>In Minnesota Users also have the right to obtain a list of the specific third parties to which the controller has disclosed the consumer’s personal data</p>
+<p>Note that in some states like Minnesota you have the following specific rights connected to profiling:</p>
+<ul>
+<li>The right to question the results of the profiling;</li>
+<li>The right to be informed of the reason that the profiling resulted in the decision; if feasible</li>
+<li>The right to be informed of what actions the consumer might have taken to secure a different decision and the actions that the consumer might take to secure a different decision in the future;</li>
+<li>The right to review personal data used in the profiling;</li>
+<li>If inaccurate, the right to have the data corrected and the profiling decision reevaluated based on the corrected data;</li>
+</ul>
+<h4 id="additional-rights-for-users-residing-in-utah-and-iowa">Additional rights for users residing in Utah and Iowa</h4>
+<p>In addition to the rights listed above common to all Users in the United States, as a User residing in Utah and Iowa, you have</p>
+<ul>
+<li>The right to opt out of the processing of your Personal Information for Targeted Advertising;</li>
+<li>The right to opt out of the processing of your Sensitive Personal Information. Please note that certain exceptions outlined in the law may apply, such as, but not limited to, when the collection and processing of Sensitive Personal Information is necessary for the provision of a product or service specifically requested by the consumer.</li>
+</ul>
+<h3 id="how-to-exercise-your-privacy-rights-under-us-state-laws">How to exercise your privacy rights under US state laws</h3>
+<p>To exercise the rights described above, you need to submit your request to us by contacting us via the contact details provided in this document.</p>
+<p>For us to respond to your request, we must know who you are. We will not respond to any request if we are unable to verify your identity and therefore confirm the Personal Information in our possession relates to you. You are not required to create an account with us to submit your request. We will use any Personal Information collected from you in connection with the verification of your request solely for verification and shall not further disclose the Personal Information, retain it longer than necessary for purposes of verification, or use it for unrelated purposes.</p>
+<p>If you are an adult, you can make a request on behalf of a child under your parental authority.</p>
+<h4 id="how-to-exercise-your-rights-to-opt-out">How to exercise your rights to opt out</h4>
+<p>In addition to what is stated above, to exercise your right to opt-out of Sale or Sharing and Targeted Advertising you can also use the privacy choices link provided on this Website.</p>
+<p>If you want to submit requests to opt out of Sale or Sharing and Targeted Advertising activities via a user-enabled global privacy control, such as for example the Global Privacy Control (“<a href="https://globalprivacycontrol.org/">GPC</a>”), you are free to do so and we will abide by such request in a frictionless manner.</p>
+<h4 id="how-and-when-we-are-expected-to-handle-your-request">How and when we are expected to handle your request</h4>
+<p>We will respond to your request without undue delay, but in all cases within the timeframe required by applicable law. Should we need more time, we will explain to you the reasons why, and how much more time we need.</p>
+<p>Should we deny your request, we will explain to you the reasons behind our denial (where envisaged by applicable law you may then contact the relevant authority to submit a complaint).</p>
+<p>We do not charge a fee to process or respond to your request unless such request is manifestly unfounded or excessive and in all other cases where it is permitted by the applicable law. In such cases, we may charge a reasonable fee or refuse to act on the request. In either case, we will communicate our choices and explain the reasons behind them.</p>
+<h2 id="ulteriori-informazioni-sul-trattamento">Ulteriori informazioni sul trattamento</h2>
+<h3 id="difesa-in-giudizio">Difesa in giudizio</h3>
+<p>I Dati Personali dell’Utente possono essere utilizzati da parte del Titolare in giudizio o nelle fasi preparatorie alla sua eventuale instaurazione per la difesa da abusi nell’utilizzo di questo Sito Web o dei Servizi connessi da parte dell’Utente.
+L’Utente dichiara di essere consapevole che il Titolare potrebbe essere obbligato a rivelare i Dati per ordine delle autorità pubbliche.</p>
+<h3 id="informative-specifiche">Informative specifiche</h3>
+<p>Su richiesta dell’Utente, in aggiunta alle informazioni contenute in questa privacy policy, questo Sito Web potrebbe fornire all’Utente delle informative aggiuntive e contestuali riguardanti Servizi specifici, o la raccolta ed il trattamento di Dati Personali.</p>
+<h3 id="log-di-sistema-e-manutenzione">Log di sistema e manutenzione</h3>
+<p>Per necessità legate al funzionamento ed alla manutenzione, questo Sito Web e gli eventuali servizi terzi da essa utilizzati potrebbero raccogliere log di sistema, ossia file che registrano le interazioni e che possono contenere anche Dati Personali, quali l’indirizzo IP Utente.</p>
+<h3 id="informazioni-non-contenute-in-questa-policy">Informazioni non contenute in questa policy</h3>
+<p>Ulteriori informazioni in relazione al trattamento dei Dati Personali potranno essere richieste in qualsiasi momento al Titolare del Trattamento utilizzando gli estremi di contatto.</p>
+<h3 id="modifiche-a-questa-privacy-policy">Modifiche a questa privacy policy</h3>
+<p>Il Titolare del Trattamento si riserva il diritto di apportare modifiche alla presente privacy policy in qualunque momento notificandolo agli Utenti su questa pagina e, se possibile, su questo Sito Web nonché, qualora tecnicamente e legalmente fattibile, inviando una notifica agli Utenti attraverso uno degli estremi di contatto di cui è in possesso. Si prega dunque di consultare con frequenza questa pagina, facendo riferimento alla data di ultima modifica indicata in fondo.</p>
+<p>Qualora le modifiche interessino trattamenti la cui base giuridica è il consenso, il Titolare provvederà a raccogliere nuovamente il consenso dell’Utente, se necessario.</p>
+<h2 id="definizioni-e-riferimenti-legali">Definizioni e riferimenti legali</h2>
+<h3 id="dati-personali-o-dati--informazioni-personali-o-informazioni">Dati Personali (o Dati) / Informazioni Personali (o Informazioni)</h3>
+<p>Costituisce dato personale qualunque informazione che, direttamente o indirettamente, anche in collegamento con qualsiasi altra informazione, ivi compreso un numero di identificazione personale, renda identificata o identificabile una persona fisica.</p>
+<h3 id="informazioni-personali-sensibili">Informazioni Personali Sensibili</h3>
+<p>Per Informazioni Personali Sensibili si intendono tutte le Informazioni Personali che non sono disponibili pubblicamente e che rivelano informazioni considerate sensibili ai sensi della normativa applicabile in materia di privacy.</p>
+<h3 id="dati-di-utilizzo">Dati di Utilizzo</h3>
+<p>Sono le informazioni raccolte automaticamente attraverso questo Sito Web (anche da applicazioni di parti terze integrate in questo Sito Web), tra cui: gli indirizzi IP o i nomi a dominio dei computer utilizzati dall’Utente che si connette con questo Sito Web, gli indirizzi in notazione URI (Uniform Resource Identifier), l’orario della richiesta, il metodo utilizzato nell’inoltrare la richiesta al server, la dimensione del file ottenuto in risposta, il codice numerico indicante lo stato della risposta dal server (buon fine, errore, ecc.) il paese di provenienza, le caratteristiche del browser e del sistema operativo utilizzati dal visitatore, le varie connotazioni temporali della visita (ad esempio il tempo di permanenza su ciascuna pagina) e i dettagli relativi all’itinerario seguito all’interno dell’Applicazione, con particolare riferimento alla sequenza delle pagine consultate, ai parametri relativi al sistema operativo e all’ambiente informatico dell’Utente.</p>
+<h3 id="utente">Utente</h3>
+<p>L’individuo che utilizza questo Sito Web che, salvo ove diversamente specificato, coincide con l’Interessato.</p>
+<h3 id="interessato">Interessato</h3>
+<p>La persona fisica cui si riferiscono i Dati Personali.</p>
+<h3 id="responsabile-del-trattamento-o-responsabile">Responsabile del Trattamento (o Responsabile)</h3>
+<p>La persona fisica, giuridica, la pubblica amministrazione e qualsiasi altro ente che tratta dati personali per conto del Titolare, secondo quanto esposto nella presente privacy policy.</p>
+<h3 id="titolare-del-trattamento-o-titolare">Titolare del Trattamento (o Titolare)</h3>
+<p>La persona fisica o giuridica, l’autorità pubblica, il servizio o altro organismo che, singolarmente o insieme ad altri, determina le finalità e i mezzi del trattamento di dati personali e gli strumenti adottati, ivi comprese le misure di sicurezza relative al funzionamento ed alla fruizione di questo Sito Web. Il Titolare del Trattamento, salvo quanto diversamente specificato, è il titolare di questo Sito Web.</p>
+<h3 id="questo-sito-web-o-questa-applicazione">Questo Sito Web (o questa Applicazione)</h3>
+<p>Lo strumento hardware o software mediante il quale sono raccolti e trattati i Dati Personali degli Utenti.</p>
+<h3 id="servizio">Servizio</h3>
+<p>Il Servizio fornito da questo Sito Web così come definito nei relativi termini (se presenti) su questo sito/applicazione.</p>
+<h3 id="vendita">Vendita</h3>
+<p>Per Vendita si intende qualsiasi scambio di Informazioni Personali da parte del Proprietario a un terzo, in cambio di denaro o a diverso titolo oneroso, come definito dalla normativa statale statunitense applicabile in materia di privacy. Si prega di notare che lo scambio di Informazioni Personali con un fornitore di servizi ai sensi di un contratto scritto che soddisfa i requisiti stabiliti dalla legge applicabile, non costituisce una Vendita delle tue Informazioni Personali.</p>
+<h3 id="condivisione">Condivisione</h3>
+<p>Per Condivisione si intende qualsiasi condivisione, affitto, rilascio, divulgazione, diffusione, messa a disposizione, trasferimento o diversa comunicazione verbale, per iscritto o con mezzi elettronici o di altro tipo, delle Informazioni Personali di un consumatore da parte dell’azienda a un terzo per la pubblicità comportamentale cross-context, sia in cambio di denaro che ad altro titolo oneroso, comprese le transazioni tra un’azienda e un terzo relative alla pubblicità comportamentale cross-context in favore di un’azienda in cui non si scambia denaro, come definito dalle leggi sulla privacy della California. Si prega di notare che lo scambio di Informazioni Personali con un fornitore di servizi ai sensi di un contratto scritto che soddisfa i requisiti stabiliti dalle leggi sulla privacy della California, non costituisce una condivisione delle Informazioni Personali dell’utente.</p>
+<h3 id="pubblicità-mirata">Pubblicità mirata</h3>
+<p>Per Pubblicità mirata si intende la visualizzazione di annunci pubblicitari a un consumatore per cui l’annuncio è selezionato in base alle Informazioni Personali ottenuti dalle attività di tale consumatore nel tempo e su siti web o applicazioni online non affiliati per prevedere le preferenze o gli interessi di tale consumatore, come definito dalla legge statale statunitense in materia di privacy applicabile.</p>
+<h3 id="unione-europea-o-ue">Unione Europea (o UE)</h3>
+<p>Salvo ove diversamente specificato, ogni riferimento all’Unione Europea contenuto in questo documento si intende esteso a tutti gli attuali stati membri dell’Unione Europea e dello Spazio Economico Europeo.</p>
+<h4 id="cookie">Cookie</h4>
+<p>I Cookie sono Strumenti di Tracciamento che consistono in piccole porzioni di dati conservate all’interno del browser dell’Utente.</p>
+<h4 id="strumento-di-tracciamento">Strumento di Tracciamento</h4>
+<p>Per Strumento di Tracciamento s’intende qualsiasi tecnologia - es. Cookie, identificativi univoci, web beacons, script integrati, e-tag e fingerprinting - che consenta di tracciare gli Utenti, per esempio raccogliendo o salvando informazioni sul dispositivo dell’Utente.</p>
+<hr>
+<h4 id="riferimenti-legali">Riferimenti legali</h4>
+<p>La presente informativa privacy è redatta sulla base di molteplici ordinamenti legislativi.</p>
+<p>Ove non diversamente specificato, questa informativa privacy riguarda esclusivamente questo Sito Web.</p> </main>`;
+
+export const cookie = `<h1 id="cookie-policy-di-laifinflorencecom">
+  Cookie Policy di liberconsulting.it
+</h1>
+<p>
+  Benvenuto nella cookie policy di liberconsulting.it. Questa policy ti aiuterà
+  a comprendere quali cookie e tecnologie di tracciamento utilizziamo, come li
+  utilizziamo e quali sono i tuoi diritti in merito.
+</p>
+<h2 id="introduzione">Introduzione</h2>
+<p>
+  Questo documento contiene informazioni in merito alle tecnologie che
+  consentono a questo Sito Web di raggiungere gli scopi descritti di seguito.
+  Tali tecnologie permettono al Titolare di raccogliere e salvare informazioni
+  (per esempio tramite l’utilizzo di Cookie) o di utilizzare risorse (per
+  esempio eseguendo uno script) sul dispositivo dell’Utente quando quest’ultimo
+  interagisce con questo Sito Web.
+</p>
+<p>
+  Per semplicità, in questo documento tali tecnologie sono sinteticamente
+  definite “Strumenti di Tracciamento”, salvo vi sia ragione di differenziare.
+  Per esempio, sebbene i Cookie possano essere usati in browser sia web sia
+  mobili, sarebbe fuori luogo parlare di Cookie nel contesto di applicazioni per
+  dispositivi mobili, dal momento che si tratta di Strumenti di Tracciamento che
+  richiedono la presenza di un browser. Per questo motivo, all’interno di questo
+  documento il termine Cookie è utilizzato solo per indicare in modo specifico
+  quel particolare tipo di Strumento di Tracciamento.
+</p>
+<p>
+  Alcune delle finalità per le quali vengono impiegati Strumenti di Tracciamento
+  potrebbero, inoltre richiedere il consenso dell’Utente. Se viene prestato il
+  consenso, esso può essere revocato liberamente in qualsiasi momento seguendo
+  le istruzioni contenute in questo documento.
+</p>
+<p>
+  Questo Sito Web utilizza Strumenti di Tracciamento gestiti direttamente dal
+  Titolare (comunemente detti Strumenti di Tracciamento “di prima parte”) e
+  Strumenti di Tracciamento che abilitano servizi forniti da terzi (comunemente
+  detti Strumenti di Tracciamento “di terza parte”). Se non diversamente
+  specificato all’interno di questo documento, tali terzi hanno accesso ai
+  rispettivi Strumenti di Tracciamento. Durata e scadenza dei Cookie e degli
+  altri Strumenti di Tracciamento simili possono variare a seconda di quanto
+  impostato dal Titolare o da ciascun fornitore terzo. Alcuni di essi scadono al
+  termine della sessione di navigazione dell’Utente. In aggiunta a quanto
+  specificato nella descrizione di ciascuna delle categorie di seguito
+  riportate, gli Utenti possono ottenere informazioni più dettagliate ed
+  aggiornate sulla durata, così come qualsiasi altra informazione rilevante -
+  quale la presenza di altri Strumenti di Tracciamento - nelle privacy policy
+  dei rispettivi fornitori terzi (tramite i link messi a disposizione) o
+  contattando il Titolare.
+</p>
+<h2 id="titolare-del-trattamento-dei-dati">
+  Titolare del Trattamento dei Dati
+</h2>
+<p>
+  Liber Consulting s.r.l.s., Via di Grignano, 20, 50065 Pontassieve (FI), P.IVA:
+  IT07124230488
+  <a href="mailto:f.liberati@liberconsulting.it"
+    >f.liberati@liberconsulting.it</a
+  >
+</p>
+<h2 id="come-questo-sito-web-utilizza-gli-strumenti-di-tracciamento">
+  Come questo Sito Web utilizza gli Strumenti di Tracciamento
+</h2>
+Questo Sito Web carica script di prime e terze parti solamente previo consenso
+utilizzando il servizio Cloudflare Zaraz. Questo servizio non utilizza Strumenti
+di Tracciamento e permette di accettare in maniera capillare soltanto i servizi
+che un utente vuole attivare.
+<h3 id="necessari">Necessari</h3>
+<p>
+  Questo Sito Web utilizza Cookie comunemente detti “tecnici” o altri Strumenti
+  di Tracciamento analoghi per svolgere attività strettamente necessarie a
+  garantire il funzionamento o la fornitura del Servizio.
+</p>
+<h4 id="technical-trackers">Technical trackers</h4>
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Durata</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>zaraz_consent</td>
+      <td>Un anno</td>
+    </tr>
+  </tbody>
+</table>
+<h3 id="esperienza">Esperienza</h3>
+<p>
+  Questo Sito Web non utilizza Strumenti di Tracciamento per migliorare la
+  qualità della user experience e consentire le interazioni con contenuti,
+  network e piattaforme esterni.
+</p>
+<h3 id="misurazione">Misurazione</h3>
+<p>
+  Questo Sito Web utilizza Strumenti di Tracciamento per misurare il traffico e
+  analizzare il comportamento degli Utenti per migliorare il Servizio.
+</p>
+<h4 id="google-analytics-4">Google Analytics 4</h4>
+<p>
+  Google Analytics è un servizio di statistica fornito da Google Ireland Limited
+  (“Google”). Google utilizza i Dati Personali raccolti allo scopo di tracciare
+  ed esaminare l’utilizzo di questo Sito Web, compilare report e condividerli
+  con gli altri servizi sviluppati da Google. Google potrebbe utilizzare i Dati
+  Personali per contestualizzare e personalizzare gli annunci del proprio
+  network pubblicitario. In Google Analytics 4, gli indirizzi IP vengono
+  utilizzati al momento della raccolta e poi eliminati prima che i dati vengano
+  registrati in qualsiasi data center o server. Per saperne di più, è possibile
+  consultare la
+  <a
+    href="https://support.google.com/analytics/answer/12017362?hl=it&amp;ref_topic=2919631"
+    >documentazione ufficiale di Google</a
+  >.
+</p>
+<p>
+  Per conoscere l’utilizzo dei Dati da parte di Google, consulta la loro
+  <a href="https://policies.google.com/technologies/partner-sites"
+    >partner policy</a
+  >
+  e la loro pagina dei
+  <a href="https://business.safety.google/privacy/">Dati Commerciali</a>.
+</p>
+<p>
+  Dati Personali trattati: Dati di utilizzo, numero di Utenti, statistiche delle
+  sessioni, Strumenti di Tracciamento Servizio fornito da: Google Ireland
+  Limited (Irlanda) –
+  <a href="https://business.safety.google/privacy/">Privacy Policy</a> –
+  <a href="https://tools.google.com/dlpage/gaoptout?hl=it">Opt Out</a>
+</p>
+<p>Durata degli Strumenti di Tracciamento:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Durata</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>cfzs_google-analytics_v4</td>
+      <td>Sessione</td>
+    </tr>
+    <tr>
+      <td>cfz_google-analytics_v4</td>
+      <td>1 anni</td>
+    </tr>
+  </tbody>
+</table>
+<h3 id="marketing">Marketing</h3>
+<p>
+  Questo Sito Web non utilizza Strumenti di Tracciamento per fornire annunci
+  personalizzati o contenuti di marketing e per misurarne le prestazioni.
+</p>
+<h2 id="come-gestire-le-preferenze-su-questo-sito-web">
+  Come gestire le preferenze su questo Sito Web
+</h2>
+<p>
+  Gli Utenti possono impostare o aggiornare le proprie preferenze tramite il
+  relativo pannello delle scelte in materia di privacy disponibile su questo
+  Sito Web.
+</p>
+<p>
+  Per quanto riguarda Strumenti di Tracciamento di terza parte, gli Utenti
+  possono gestire le proprie preferenze visitando il relativo link di opt out
+  (qualora disponibile), utilizzando gli strumenti descritti nella privacy
+  policy della terza parte o contattando quest’ultima direttamente.
+</p>
+<h3
+  id="come-controllare-o-eliminare-cookie-e-tecnologie-simili-tramite-le-impostazioni-del-tuo-dispositivo"
+>
+  Come controllare o eliminare Cookie e tecnologie simili tramite le
+  impostazioni del tuo dispositivo
+</h3>
+<p>Gli Utenti possono utilizzare le impostazioni del proprio browser per:</p>
+<ul>
+  <li>
+    Vedere quali Cookie o altre tecnologie simili sono stati impostati sul
+    dispositivo;
+  </li>
+  <li>Bloccare Cookie o tecnologie simili;</li>
+  <li>Cancellare i Cookie o tecnologie simili dal browser.</li>
+</ul>
+<p>
+  Le impostazioni del browser, tuttavia, non consentono un controllo granulare
+  del consenso per categoria.
+</p>
+<p>
+  Gli Utenti possono, per esempio, trovare informazioni su come gestire i Cookie
+  in alcuni dei browser più diffusi ai seguenti indirizzi:
+</p>
+<ul>
+  <li>
+    <a
+      href="https://support.google.com/chrome/answer/95647?hl=it&amp;p=cpn_cookies"
+      >Google Chrome</a
+    >
+  </li>
+  <li>
+    <a
+      href="https://support.mozilla.org/it/kb/Attivare%20e%20disattivare%20i%20cookie"
+      >Mozilla Firefox</a
+    >
+  </li>
+  <li>
+    <a
+      href="https://support.apple.com/it-it/guide/safari/manage-cookies-and-website-data-sfri11471/"
+      >Apple Safari</a
+    >
+  </li>
+  <li>
+    <a
+      href="http://windows.microsoft.com/it-it/windows-vista/block-or-allow-cookies"
+      >Microsoft Internet Explorer</a
+    >
+  </li>
+  <li>
+    <a href="https://support.microsoft.com/it-it/help/4027947"
+      >Microsoft Edge</a
+    >
+  </li>
+  <li>
+    <a
+      href="https://support.brave.com/hc/articles/360022806212-How-do-I-use-Shields-while-browsing"
+      >Brave</a
+    >
+  </li>
+  <li>
+    <a href="https://help.opera.com/latest/web-preferences/#cookies">Opera</a>
+  </li>
+</ul>
+<p>
+  Gli Utenti possono inoltre gestire alcuni Strumenti di Tracciamento per
+  applicazioni mobili disattivandoli tramite le apposite impostazioni del
+  dispositivo, quali le impostazioni di pubblicità per dispositivi mobili o le
+  impostazioni relative al tracciamento in generale (gli Utenti possono
+  consultare le impostazioni del dispositivo per individuare quella pertinente).
+</p>
+<h3 id="come-disattivare-la-pubblicità-basata-sugli-interessi">
+  Come disattivare la pubblicità basata sugli interessi
+</h3>
+<p>
+  Fermo restando quanto precede, si informano gli Utenti della possibilità di
+  avvalersi delle informazioni presenti su
+  <a href="http://www.youronlinechoices.eu/">YourOnlineChoices</a> (UE e Regno
+  Unito),
+  <a href="https://thenai.org/about-online-advertising/"
+    >Network Advertising Initiative</a
+  >
+  (USA) e
+  <a href="https://www.aboutads.info/consumers/"
+    >Digital Advertising Alliance</a
+  >
+  (USA),
+  <a href="https://youradchoices.ca/understanding-online-advertising/">DAAC</a>
+  (Canada), <a href="http://www.ddai.info/optout">DDAI</a> (Giappone) o altri
+  servizi analoghi. Con questi servizi è possibile gestire le preferenze di
+  tracciamento della maggior parte degli strumenti pubblicitari. Il Titolare,
+  pertanto, consiglia agli Utenti di utilizzare tali risorse in aggiunta alle
+  informazioni fornite nel presente documento.
+</p>
+<p>
+  La Digital Advertising Alliance mette inoltre a disposizione un’applicazione
+  chiamata <a href="https://youradchoices.com/appchoices">AppChoices</a> che
+  aiuta gli Utenti a controllare la pubblicità comportamentale sulle
+  applicazioni mobili.
+</p>
+<h3
+  id="conseguenze-legate-al-rifiuto-dellutilizzo-di-strumenti-di-tracciamento"
+>
+  Conseguenze legate al rifiuto dell’utilizzo di Strumenti di Tracciamento
+</h3>
+<p>
+  Gli Utenti sono liberi di decidere se permettere o meno l’utilizzo di
+  Strumenti di Tracciamento. Tuttavia, si noti che gli Strumenti di Tracciamento
+  consentono a questo Sito Web di fornire agli Utenti un’esperienza migliore e
+  funzionalità avanzate (in linea con le finalità delineate nel presente
+  documento). Pertanto, qualora l’Utente decida di bloccare l’utilizzo di
+  Strumenti di Tracciamento, il Titolare potrebbe non essere in grado di fornire
+  le relative funzionalità.
+</p>
+<h2 id="definizioni-e-riferimenti-legali">Definizioni e riferimenti legali</h2>
+<h3 id="dati-personali-o-dati--informazioni-personali-o-informazioni">
+  Dati Personali (o Dati) / Informazioni Personali (o Informazioni)
+</h3>
+<p>
+  Costituisce dato personale qualunque informazione che, direttamente o
+  indirettamente, anche in collegamento con qualsiasi altra informazione, ivi
+  compreso un numero di identificazione personale, renda identificata o
+  identificabile una persona fisica.
+</p>
+<h3 id="informazioni-personali-sensibili">Informazioni Personali Sensibili</h3>
+<p>
+  Per Informazioni Personali Sensibili si intendono tutte le Informazioni
+  Personali che non sono disponibili pubblicamente e che rivelano informazioni
+  considerate sensibili ai sensi della normativa applicabile in materia di
+  privacy.
+</p>
+<h3 id="dati-di-utilizzo">Dati di Utilizzo</h3>
+<p>
+  Sono le informazioni raccolte automaticamente attraverso questo Sito Web
+  (anche da applicazioni di parti terze integrate in questo Sito Web), tra cui:
+  gli indirizzi IP o i nomi a dominio dei computer utilizzati dall’Utente che si
+  connette con questo Sito Web, gli indirizzi in notazione URI (Uniform Resource
+  Identifier), l’orario della richiesta, il metodo utilizzato nell’inoltrare la
+  richiesta al server, la dimensione del file ottenuto in risposta, il codice
+  numerico indicante lo stato della risposta dal server (buon fine, errore,
+  ecc.) il paese di provenienza, le caratteristiche del browser e del sistema
+  operativo utilizzati dal visitatore, le varie connotazioni temporali della
+  visita (ad esempio il tempo di permanenza su ciascuna pagina) e i dettagli
+  relativi all’itinerario seguito all’interno dell’Applicazione, con particolare
+  riferimento alla sequenza delle pagine consultate, ai parametri relativi al
+  sistema operativo e all’ambiente informatico dell’Utente.
+</p>
+<h3 id="utente">Utente</h3>
+<p>
+  L’individuo che utilizza questo Sito Web che, salvo ove diversamente
+  specificato, coincide con l’Interessato.
+</p>
+<h3 id="interessato">Interessato</h3>
+<p>La persona fisica cui si riferiscono i Dati Personali.</p>
+<h3 id="responsabile-del-trattamento-o-responsabile">
+  Responsabile del Trattamento (o Responsabile)
+</h3>
+<p>
+  La persona fisica, giuridica, la pubblica amministrazione e qualsiasi altro
+  ente che tratta dati personali per conto del Titolare, secondo quanto esposto
+  nella presente privacy policy.
+</p>
+<h3 id="titolare-del-trattamento-o-titolare">
+  Titolare del Trattamento (o Titolare)
+</h3>
+<p>
+  La persona fisica o giuridica, l’autorità pubblica, il servizio o altro
+  organismo che, singolarmente o insieme ad altri, determina le finalità e i
+  mezzi del trattamento di dati personali e gli strumenti adottati, ivi comprese
+  le misure di sicurezza relative al funzionamento ed alla fruizione di questo
+  Sito Web. Il Titolare del Trattamento, salvo quanto diversamente specificato,
+  è il titolare di questo Sito Web.
+</p>
+<h3 id="questo-sito-web-o-questa-applicazione">
+  Questo Sito Web (o questa Applicazione)
+</h3>
+<p>
+  Lo strumento hardware o software mediante il quale sono raccolti e trattati i
+  Dati Personali degli Utenti.
+</p>
+<h3 id="servizio">Servizio</h3>
+<p>
+  Il Servizio fornito da questo Sito Web così come definito nei relativi termini
+  (se presenti) su questo sito/applicazione.
+</p>
+<h3 id="vendita">Vendita</h3>
+<p>
+  Per Vendita si intende qualsiasi scambio di Informazioni Personali da parte
+  del Proprietario a un terzo, in cambio di denaro o a diverso titolo oneroso,
+  come definito dalla normativa statale statunitense applicabile in materia di
+  privacy. Si prega di notare che lo scambio di Informazioni Personali con un
+  fornitore di servizi ai sensi di un contratto scritto che soddisfa i requisiti
+  stabiliti dalla legge applicabile, non costituisce una Vendita delle tue
+  Informazioni Personali.
+</p>
+<h3 id="condivisione">Condivisione</h3>
+<p>
+  Per Condivisione si intende qualsiasi condivisione, affitto, rilascio,
+  divulgazione, diffusione, messa a disposizione, trasferimento o diversa
+  comunicazione verbale, per iscritto o con mezzi elettronici o di altro tipo,
+  delle Informazioni Personali di un consumatore da parte dell’azienda a un
+  terzo per la pubblicità comportamentale cross-context, sia in cambio di denaro
+  che ad altro titolo oneroso, comprese le transazioni tra un’azienda e un terzo
+  relative alla pubblicità comportamentale cross-context in favore di un’azienda
+  in cui non si scambia denaro, come definito dalle leggi sulla privacy della
+  California. Si prega di notare che lo scambio di Informazioni Personali con un
+  fornitore di servizi ai sensi di un contratto scritto che soddisfa i requisiti
+  stabiliti dalle leggi sulla privacy della California, non costituisce una
+  condivisione delle Informazioni Personali dell’utente.
+</p>
+<h3 id="pubblicità-mirata">Pubblicità mirata</h3>
+<p>
+  Per Pubblicità mirata si intende la visualizzazione di annunci pubblicitari a
+  un consumatore per cui l’annuncio è selezionato in base alle Informazioni
+  Personali ottenuti dalle attività di tale consumatore nel tempo e su siti web
+  o applicazioni online non affiliati per prevedere le preferenze o gli
+  interessi di tale consumatore, come definito dalla legge statale statunitense
+  in materia di privacy applicabile.
+</p>
+<h3 id="unione-europea-o-ue">Unione Europea (o UE)</h3>
+<p>
+  Salvo ove diversamente specificato, ogni riferimento all’Unione Europea
+  contenuto in questo documento si intende esteso a tutti gli attuali stati
+  membri dell’Unione Europea e dello Spazio Economico Europeo.
+</p>
+<h4 id="cookie">Cookie</h4>
+<p>
+  I Cookie sono Strumenti di Tracciamento che consistono in piccole porzioni di
+  dati conservate all’interno del browser dell’Utente.
+</p>
+<h4 id="strumento-di-tracciamento">Strumento di Tracciamento</h4>
+<p>
+  Per Strumento di Tracciamento s’intende qualsiasi tecnologia - es. Cookie,
+  identificativi univoci, web beacons, script integrati, e-tag e fingerprinting
+  - che consenta di tracciare gli Utenti, per esempio raccogliendo o salvando
+  informazioni sul dispositivo dell’Utente.
+</p>
+<hr />
+<h4 id="riferimenti-legali">Riferimenti legali</h4>
+<p>
+  La presente informativa privacy è redatta sulla base di molteplici ordinamenti
+  legislativi.
+</p>
+<p>
+  Ove non diversamente specificato, questa informativa privacy riguarda
+  esclusivamente questo Sito Web.
+</p> `;
