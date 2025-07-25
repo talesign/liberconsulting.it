@@ -38,7 +38,7 @@ export default async function SrvPage({ params }: any) {
             <h1 className="text-4xl">{SingleSrvData.Nome}</h1>
             <div className="flex justify-between py-4 border-b border-t border-g900">
               <div className="font-bold text-sm">Partner</div>
-              <Link href={"https://" + SingleSrvData.Nome} className="text-sm">
+              <Link href={"https://liberconsulting.it/partner/" + SingleSrvData.expand.Partner.Slug} className="text-sm">
                 {SingleSrvData.expand.Partner.Nome}
               </Link>
             </div>

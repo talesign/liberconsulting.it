@@ -59,7 +59,7 @@ let Column3Links = [
 let Column4Links = [
   {
     name: "Chi siamo",
-    url: "/chi-siamo",
+    url: "/partner/liber",
   },
   {
     name: "Contatti",
